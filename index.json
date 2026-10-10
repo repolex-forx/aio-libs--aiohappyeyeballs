@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs",
+  "repo": "aiohappyeyeballs",
+  "versions": [
+    {
+      "commit": "5dc56b90fa56c1126cb019b06452af234a370f88",
+      "tag": "",
+      "parsed_at": "2026-10-10T16:07:21.245121+00:00"
+    }
+  ]
+}
