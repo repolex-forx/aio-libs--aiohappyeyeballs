@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/aio-libs/aiohappyeyeballs/commit/5dc56b90fa56c1126cb019b06452af234a370f88",
       "git:hexsha": "5dc56b90fa56c1126cb019b06452af234a370f88",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-10T16:07:21.244419+00:00"
     },
     {
       "@id": "https://repolex.ai/r/aio-libs/aiohappyeyeballs/commit/8ce78529dcf069bcb149319f48a2900715db876c",
